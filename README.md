@@ -50,6 +50,7 @@ and run `upgrade.sh`.
 ## Community SDK
 
 - [netbox-client-ruby](https://github.com/ninech/netbox-client-ruby) A ruby client library for Netbox v2.
+- [powerbox](https://github.com/BatmanAMA/powerbox) A PowerShell module for the NetBox API. Also available on the [PowerShell Gallery](https://www.powershellgallery.com/packages/powerbox/).
 
 ## Ansible Inventory
 
